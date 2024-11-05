@@ -1,14 +1,6 @@
 <? $pg="home"; ?>
 <? include("header.php");?>
     <div class="line">
-      <h2>19th January 2025</h2>
-      <p>10&mdash;4</p>
-    </div>
-    <div class="line">
-      <h2>Kirkcaldy</h2>
-      <p><a href="/venue">The Old Kirk</a>, Kirk Wynd</p>
-    </div>
-    <div class="line">
       <h2 class="yellow">free entry</h2>
       <p><a href="/welcome">everyone welcome</a></p>
     </div>
