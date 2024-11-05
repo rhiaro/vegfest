@@ -200,7 +200,6 @@ h1 {
 }
 
 main {
-  /*display: grid;*/
   grid-area:  main;
 }
 
@@ -214,7 +213,6 @@ main {
 }
 
 footer {
-  display:  grid;
   grid-area:  footer;
 }
 
