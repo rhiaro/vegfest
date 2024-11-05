@@ -61,19 +61,13 @@ The venue provides tables for the stalls, and chairs. There are no on-site cooki
 If you wish to run a workshop or demonstration or other group session, we will have separate space avaialble. Let us know how much time you need, how many people you can accommodate, and what your setup will be, and we will add you into our timetable.
 </p>
 <p>
-Parking for vendors is available for free close to the front door [TO BE CONFIRMED].
-</p>
-<h2 class="orange">
-Why now?
-</h2>
-<p>
-<a href="https://fccan.org.uk/">The Fife Climate Festival</a> takes place from the 21st September to 5th October. This is not a formal part of the programme, but we think it's a great opportunity to get people thinking about the impact of their food choices on the environment. And considering a vegan diet can be a big part of that!
+There is space to park for loading and unloading close to the main door, but vehicles will need to be moved to a nearby carpark for the duration of the event to allow for disabled access.
 </p>
 <h2 class="orange">
 Who is organising this?
 </h2>
 <p>
-Amy, Tony, Amby and Lea are Kirkcaldy-based community-minded vegan foodies, who want to celebrate what our town and the wider area have, and to whet the local appetite for more. We want to support local businesses, and bring something positive to Kirkcaldy.
+Amy, Tony, Amby, Lea and Shiva are Kirkcaldy-based community-minded vegan foodies, who want to celebrate what our town and the wider area have, and to whet the local appetite for more. We want to support local businesses, and bring something positive to Kirkcaldy.
 </p>
 <h2 class="orange">
 What else is happening?
