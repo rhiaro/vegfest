@@ -28,6 +28,9 @@ What's in it for me?
 We'd love for you to show off your vegan food offerings to <strong>raise your profile</strong> among Fifers with dietary restrictions and those making eco-conscious food choices. It can be hard for us to find good options - let us know that you can cater for us! And spend the day selling your fare to <strong>a new audience</strong>.
 </p>
 <p>
+Our <a href="vegfest1">first ever VegFest</a> had over 300 people through the doors, and we had to close early due to everyone selling out.
+</p>
+<p>
 This will also be an opportunity to <strong>network with and get inspiration</strong> from other small businesses facing similar challenges and opportunities, as well as representatives from local authorities and sustainability or food activism networks. And a chance to <strong>meet local foodies</strong> with ideas and enthusiasm for your vegan options.
 </p>
 <h2 class="orange">

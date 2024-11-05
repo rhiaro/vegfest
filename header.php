@@ -30,6 +30,6 @@ switch($pg){
     <h1><a href="/"><img src="img/<?=$img?>.png" alt="VegFest logo is weird happy dopy vegetables" /></a></h1>
   </header>
   <main>
-    <div class="line">
+    <!--<div class="line">
       <h2>Vegan events in Fife</h2>
-    </div>
+    </div>-->
