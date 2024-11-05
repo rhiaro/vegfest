@@ -28,7 +28,7 @@ h1 {
 h2 {
   font-size:  1.6em;
   background-color: #286832;
-  padding: 0.4em; /*margin: 0.4em 0 0.4em 0;*/
+  padding: 0.4em; margin: 0.8em 0 0.8em 0;
   color: #fff;
   display: inline-block;
   width: fit-content;
