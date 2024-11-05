@@ -1,0 +1,282 @@
+/**
+*** https://rhiaro.co.uk
+*** 2024
+* orange #e5714e
+* green #286832
+* purple #8a5c8c
+* pink #e99eb8
+* yellow #f6e97b
+**/
+html {scroll-behavior: smooth; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica Neue, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.2;
+}
+
+header {
+  font-family:  charter, Georgia, Cambria, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+h1 {
+  text-align:  center;
+  font-weight:  bold;
+  font-size:  2.2em;
+}
+
+h2 {
+  font-size:  1.6em;
+  background-color: #286832;
+  padding: 0.4em; /*margin: 0.4em 0 0.4em 0;*/
+  color: #fff;
+  display: inline-block;
+  width: fit-content;
+}
+h2 a {
+  text-decoration: none;
+}
+h2 a:hover {
+  text-decoration: underline;
+}
+h2.right {
+  text-align: right;
+}
+
+h3 {
+  font-size:  1.6em;
+  background-color: #8a5c8c;
+  padding: 0.4em;
+  color: #fff;
+  display: inline-block;
+  width: fit-content;
+}
+
+h4 {
+  font-size: 1.6em;
+  font-weight: 600;
+  color: #e99eb8;
+}
+
+p, ul {
+  padding: 0.4em;
+  font-size: 1.2em;
+}
+p a {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: silver;
+}
+p a:hover {
+  text-decoration: underline;
+}
+.line p {
+  font-style: italic;
+}
+ul {
+  list-style: disc inside none;
+}
+ul li {
+  font-size: 1.2m;
+  line-height: 1.6em;
+}
+
+em {
+  font-style: italic;
+}
+strong {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: underline;
+  color: #000;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.success {
+  border:  2px solid #1f9176;
+  color:  #155949;
+  background-color: #b3ddd4;
+  padding:  0.6em;
+}
+.fail {
+  border:  2px solid #a84334;
+  color:  #591e15;
+  background-color: #f4bfb7;
+  padding:  0.6em;
+}
+
+.yellow {
+  background-color: #f6e97b;
+  color: #000;
+}
+.orange {
+  background-color: #e5714e;
+}
+.pink {
+  background-color: #e99eb8;
+  color: #000;
+}
+.purple {
+  background-color: #8a5c8c;
+  color: #fff;
+}
+.purple a {
+  color: #fff;
+}
+
+.btn {
+  display:  inline-block;
+  text-decoration: none;
+  padding:  0.4em;
+  /*width: 180px;*/
+  text-align: center;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 200;
+  background: #fe6e21;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  margin: 20px 0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.btn:hover {
+  background: #000;
+}
+
+.btn:active {
+  outline: none;
+}
+
+footer {
+  padding-bottom:  2em;
+  border-bottom: 12px solid #286832;
+}
+
+footer img {
+  max-height: 2em;
+}
+
+
+.admin hr {
+  color: orange;
+}
+
+/* Grid */
+
+body {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: min-content max-content max-content;
+  row-gap: 2em;
+  grid-template-areas:
+    "header header header"
+    "main main main"
+    "footer footer footer";
+}
+
+header {
+  grid-area:  header;
+  display:  grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas:
+  "veg veg veg"
+  ;
+}
+
+h1 {
+  grid-area: veg;
+  display: grid;
+}
+
+main {
+  display: grid;
+  grid-area:  main;
+  row-gap: 1.6em;
+}
+
+.line {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+}
+.line p, .line h2, .line h3 {
+  align-self: center;
+}
+
+footer {
+  display:  grid;
+  grid-area:  footer;
+}
+
+footer .line {
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content min-content;
+}
+
+/* IMAGES */
+
+img {
+  max-width: 100%;
+}
+
+header {
+
+}
+
+/* === MEDIA QUERIES === */
+
+@media only screen and (min-width: 720px) {
+
+/* Grid */
+
+body {
+  grid-template-areas:
+  "header main ."
+  ". footer .";
+
+}
+
+header {
+
+}
+
+body.admin {
+  grid-template-rows: 0.4fr 2fr max-content max-content;
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+footer .line {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+}
+
+p {
+  font-size: 1.4em;
+}
+
+}
+
+
+@media only screen and (min-width: 1200px) {
+
+main {
+}
+
+
+}
+
