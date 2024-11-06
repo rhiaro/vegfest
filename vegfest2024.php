@@ -4,7 +4,7 @@
 Fife VegFest 2024 a success!
 </h2>
 <p>
-What an amazing turnout we had for our first ever Fife VegFest!
+What an amazing turnout we had for our first ever Fife VegFest! <a href="https://www.fifetoday.co.uk/news/people/kirkcaldys-first-vegan-festival-a-huge-success-huge-turn-out-and-vendors-sell-out-4813760" target="_blank">Read about it in the Fife Free Press</a>.</p>
 </p>
 <p>
 Thanks to everyone who spread the word, and came along on Sunday 6th October. We couldn't have done it without you.
@@ -22,7 +22,7 @@ We're thrilled to have thoroughly established that people will travel to Kirkcal
 Half of our vendors had <strong>sold out before 2pm</strong>, and we were calling it a day by 3.
 </p>
 <p>
-We'd like to thank our stallholders who took a chance on us as a new market. We're so glad it was worth your while: Hughes Bakery (sold out by 12:45), Lochaber Bakery (13:00), Kitchen Treasury and Ecobean (13:10), Planted By Cali (13:20), and The Tiffin and Couple O Mugs who just about hung in until half past 2 feeding the hungry vegans who were still pouring in. Our non-food vendors also enjoyed successful days: thanks Bodylushious for skincare and candles, Betty Nicols who got dozens of entries into their plant-based menu competition, and Plant Based Fife who shared veganising tips and tricks, and local and national petitions for institutional change. You all made the day the success it was!
+We'd like to thank <a href="who">our stallholders</a> who took a chance on us as a new market. We're so glad it was worth your while: Hughes Bakery (sold out by 12:45), Lochaber Bakery (13:00), Kitchen Treasury and Ecobean (13:10), Planted By Cali (13:20), and The Tiffin and Couple O Mugs who just about hung in until half past 2 feeding the hungry vegans who were still pouring in. Our non-food vendors also enjoyed successful days: thanks Bodylushious for skincare and candles, Betty Nicols who got dozens of entries into their plant-based menu competition, and Plant Based Fife who shared veganising tips and tricks, and local and national petitions for institutional change. You all made the day the success it was!
 </p>
 <p>
 Our creative space (featuring a wee vegan library) was bustling all day, and particularly popular with kids. We also had two successful panel talks (Veganise Your Diet, and a general Vegan Q&A) which were well attended and vibrant.
