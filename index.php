@@ -6,6 +6,7 @@
     </div>
     <div class="line">
       <h3>stalls from around Fife</h3>
+      <p><a href="who">see who's coming</a></p>
     </div>
     <div class="line">
       <h3>vegan food, drinks and treats</h3>
