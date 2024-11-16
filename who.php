@@ -8,6 +8,7 @@ We're looking forward to vegan treats from:
 </p>
 <ul>
   <li><a target="_blank" href="https://thetiffin.uk">The Tiffin</a> Punjabi street food from Kirkcaldy</li>
+  <li><a target="_blank" href="https://www.plantedbycali.co.uk/">Planted by Cali</a> seasonal organic meals from Kirkcaldy</li>
   <li><a target="_blank" href="https://cookiedotdreams.wordpress.com">QBee Rustique</a> allergy-friendly sweet treats from Kirkcaldy</li>
   <li><a target="_blank" href="https://www.nakeybakeyco.com/">Nakey Bakey</a> allergen-free granola from Methil</li>
   <li><a target="_blank" href="https://www.rawwildandconscious.com/">Raw Wild & Conscious</a> superfood chocolate from Cardenden</li>
@@ -22,7 +23,6 @@ We're looking forward to vegan treats from:
   <li><a target="_blank" href="https://www.bodylushious.com/">Bodylushious</a> skincare and candles from Glenrothes</li>
   <li> ... more to come!</li>
   <!-- <li><a target="_blank" href="https://www.facebook.com/people/Couple-O-Mugs/100091429974761/">Couple o Mugs</a> cafe vibes from Kirkcaldy</li> -->
-  <!-- <li><a target="_blank" href="https://www.plantedbycali.co.uk/">Planted by Cali</a> seasonal organic meals from Kirkcaldy</li> -->
 </ul>
 <p>Fife VegFest is organised in conjunction with Plant Based Fife, a local vegan community group.</p>
 <? include("footer.php"); ?>
