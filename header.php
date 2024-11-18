@@ -32,7 +32,7 @@ switch($pg){
   <main>
     <div class="line">
       <h2>19th January 2025</h2>
-      <p>11&mdash;5</p>
+      <p>11&mdash;4</p>
     </div>
     <div class="line">
       <h2>Kirkcaldy</h2>
