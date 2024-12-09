@@ -13,6 +13,7 @@ We're looking forward to vegan treats from:
   <li><a target="_blank" href="https://www.nakeybakeyco.com/">Nakey Bakey</a> allergen-free granola from Methil</li>
   <li><a target="_blank" href="https://www.rawwildandconscious.com/">Raw Wild & Conscious</a> superfood chocolate from Cardenden</li>
   <li><a target="_blank" href="https://blissbitesscotland.co.uk/">Bliss Bites</a> healthy snacks from Inchture</li>
+  <li><a target="_blank" href="https://www.marwicksvegankitchen.com/">Marwick's</a> hot and cold meals and snacks from Dundee</li>
   <li><a target="_blank" href="https://www.facebook.com/kamaveganbakez/">Kama Vegan Bakes</a> savoury vegan bakes from Edinburgh</li>
   <li><a target="_blank" href="https://www.facebook.com/people/Hughes-Bakery-Company/">Hughes Bakery</a> doughnuts as big as yer head from Kirkcaldy</li>
   <li><a target="_blank" href="https://www.facebook.com/people/The-Kitchen-Treasury/61554324862777/">Kitchen Treasury</a> protein-packed salads from Kirkcaldy</li>
