@@ -61,7 +61,7 @@ The venue provides tables for the stalls, and chairs. There are no on-site cooki
 If you wish to run a workshop or demonstration or other group session, we will have separate space avaialble. Let us know how much time you need, how many people you can accommodate, and what your setup will be, and we will add you into our timetable.
 </p>
 <p>
-There is space to park for loading and unloading close to the main door, but vehicles will need to be moved to a nearby carpark for the duration of the event to allow for disabled access.
+There is space to park for loading and unloading close to the main door, but vehicles will need to be moved to <a href="https://en.parkopedia.co.uk/parking/carpark/oswald_wynd/ky1/kirkcaldy/">a nearby carpark</a> for the duration of the event to allow for disabled access. The nearest carparks are free up to 1pm on Sundays. There is a <a href="https://en.parkopedia.co.uk/parking/carpark/dunnikier_road/ky1/thornton/">small carpark which is free all day just off Dunnikier Road</a>.
 </p>
 <h2 class="orange">
 Who is organising this?

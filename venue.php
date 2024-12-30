@@ -31,6 +31,6 @@ Getting here
 The bus station is a short walk (5 minutes) from the church and is situated behind the Town House at the end of Hunter Street. The railway station is 7 minutes walk from the Old Kirk along Hunter Street from the Town House and through the War Memorial Gardens past the Kirkcaldy Galleries.
 </p>
 <p>
-A public car park is situated at the foot of Church Lane with a short walk along the lane to the church.
+A <a href="https://en.parkopedia.co.uk/parking/carpark/oswald_wynd/ky1/kirkcaldy/">public car park</a> is situated at the foot of Church Lane with a short walk along the lane to the church. This is free up to 1pm on Sundays. Several other carkparks are also within a short walking distance.
 </p>
 <? include("footer.php"); ?>
