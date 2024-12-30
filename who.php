@@ -12,6 +12,7 @@ We're looking forward to vegan treats from:
   <li><a target="_blank" href="https://cookiedotdreams.wordpress.com">QBee Rustique</a> allergy-friendly sweet treats from Kirkcaldy</li>
   <li><a target="_blank" href="https://www.nakeybakeyco.com/">Nakey Bakey</a> allergen-free granola from Methil</li>
   <li><a target="_blank" href="https://www.rawwildandconscious.com/">Raw Wild & Conscious</a> superfood chocolate from Cardenden</li>
+  <li><a target="_blank" href="https://www.facebook.com/aberdourjamsandchutneys/">Aberdour Jams & Chutneys</a> delicious spreads from Aberdour</li>
   <li><a target="_blank" href="https://blissbitesscotland.co.uk/">Bliss Bites</a> healthy snacks from Inchture</li>
   <li><a target="_blank" href="https://www.marwicksvegankitchen.com/">Marwick's</a> hot and cold meals and snacks from Dundee</li>
   <li><a target="_blank" href="https://www.facebook.com/kamaveganbakez/">Kama Vegan Bakes</a> savoury vegan bakes from Edinburgh</li>
