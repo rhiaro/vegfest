@@ -17,7 +17,6 @@ We're looking forward to vegan treats from:
   <li><a target="_blank" href="https://www.marwicksvegankitchen.com/">Marwick's</a> hot and cold meals and snacks from Dundee</li>
   <li><a target="_blank" href="https://www.facebook.com/kamaveganbakez/">Kama Vegan Bakes</a> savoury vegan bakes from Edinburgh</li>
   <li><a target="_blank" href="https://www.facebook.com/people/Hughes-Bakery-Company/">Hughes Bakery</a> doughnuts as big as yer head from Kirkcaldy</li>
-  <li><a target="_blank" href="https://www.facebook.com/people/The-Kitchen-Treasury/61554324862777/">Kitchen Treasury</a> protein-packed salads from Kirkcaldy</li>
   <li><a target="_blank" href="https://lochaberfarm.co.uk/">Lochaber Bakery</a> handmade sourdough from North East Fife</li>
   <li><a target="_blank" href="https://www.ecobean.co.uk/">Ecobean</a> coffee beans roasted and ground in Kirkcaldy</li>
   <li><a target="_blank" href="https://www.eastneukseaweed.com/">East Neuk Seaweed</a> wild-foraged coastal food from North East Fife</li>
