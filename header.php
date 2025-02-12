@@ -12,6 +12,9 @@ switch($pg){
   case "venue":
     $img = "beet2";
     break;
+  case "more":
+    $img = "mushroom";
+    break;
   default:
     $img = "turnip";
 }
