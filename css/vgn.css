@@ -6,6 +6,7 @@
 * purple #8a5c8c
 * pink #e99eb8
 * yellow #f6e97b
+* tan #988A84
 **/
 html {scroll-behavior: smooth; }
 
@@ -135,6 +136,13 @@ a:hover {
   color: #fff;
 }
 .purple a {
+  color: #fff;
+}
+.tan {
+  background-color: #988A84;
+  color: #fff;
+}
+.tan a {
   color: #fff;
 }
 
