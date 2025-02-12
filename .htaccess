@@ -1,4 +1,7 @@
 RewriteEngine On
+RewriteBase /
+Redirect 301 "/vegfest2024" "/vegfest1"
+Redirect 301 "/vegfest202501" "/vegfest2"
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !(.*)/$
 RewriteRule ^([^\.]+)$ $1.php [NC,L]

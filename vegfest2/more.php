@@ -73,4 +73,4 @@ Q&A with local vegans, everyone welcome to join in the conversation.
     <li>2x£5 vouchers from Couple o Mugs cafe</li>
     <li>VegFest tote bag</li>
 </ul>
-<? include("footer.php"); ?>
+<? include("../footer.php"); ?>
