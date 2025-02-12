@@ -34,10 +34,9 @@ switch($pg){
   </header>
   <main>
     <div class="line">
-      <h2>19th January 2025</h2>
-      <p>11&mdash;4</p>
+      <h2>22nd June 2025</h2>
+      <p>11&mdash;late</p>
     </div>
     <div class="line">
-      <h2>Kirkcaldy</h2>
-      <p><a href="/venue">The Old Kirk</a>, Kirk Wynd</p>
+      <a href="/venue"><h2>Kirkcaldy</h2></a>
     </div>

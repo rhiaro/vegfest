@@ -25,7 +25,7 @@
     </div>
     <div class="line">
       <h3>other things too</h3>
-      <p><a href="more">find out more</a></p>
+      <p><a href="timetable">see the schedule</a></p>
     </div>
     <h2 class="green">First ever VegFest success!</h2>
     <p>Thanks to everyone who came along to make the first ever Fife VegFest in Octoer 2024 an incredible success. <a href="/vegfest2024">Read about it here</a>.</p>

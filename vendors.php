@@ -4,19 +4,22 @@
 Who is this for?
 </h2>
 <p>
-We're aiming to include a selection of Fife-based businesses who offer excellent choices for people following a vegan diet or lifestyle.
+We're aiming to include a selection of <strong>local small businesses</strong> who offer <strong>excellent choices for people following a vegan diet</strong> or lifestyle.
 </p>
 <p>
-We'd also like to include businesses and organisations who may not be specifically targeting vegans, but who operate with a compatible ethos - for example, with compassion for others, holistic wellbeing, or sustainability at their heart.
+We include businesses and organisations who may not be specifically targeting vegans, but who operate with a compatible ethos - for example, with <strong>compassion for others, holistic wellbeing, or sustainability at their heart</strong>.
 </p>
 <p>
-If this is you - or if this is something you'd like to move towards - we'd love to hear from you.
+The main criteria you need to meet is that you provide <strong>a thoughtful range of vegan options as part of your regular menu, line, or offerings</strong>. We prioritise businesses based in Fife, followed by Perth & Kinrosshire, Stirlingshire, and Tayside, but we would also love to feature businesses from other parts of Scotland who provide a particularly unique or interesting vegan product.
+</p>
+<p>
+If this is you - or if this is something you'd like to move towards - <strong>we'd love to hear from you</strong>.
 </p>
 <h2 class="orange">
 What will it cost?
 </h2>
 <p>
-We're asking that stallholders contribute up to &pound;20 to cover the cost of hiring the venue (which is itself a charity). This figure will be lower the more stalls commit to joining us! We're not trying to make any profit. This will be payable by bank transfer.
+The event is not run for profit, and we ask that stallholders contribute to covering the costs of running the event. This figure will depend on the location and number of vendors who confirm; we'll publish the expected fee here nearer the time. (For reference: vendors contributed £20 for the first two VegFests.)
 </p>
 <p>
 There will be no charge for the public entering the venue; they can spend every penny on your delicious treats.
@@ -28,7 +31,7 @@ What's in it for me?
 We'd love for you to show off your vegan food offerings to <strong>raise your profile</strong> among Fifers with dietary restrictions and those making eco-conscious food choices. It can be hard for us to find good options - let us know that you can cater for us! And spend the day selling your fare to <strong>a new audience</strong>.
 </p>
 <p>
-Our <a href="vegfest1">first ever VegFest</a> had over 300 people through the doors, and we had to close early due to everyone selling out.
+Our <a href="vegfest1">first</a> and <a href="vegfest2">second</a> VegFests had hundreds of people through the doors, and many vendors sold out.
 </p>
 <p>
 This will also be an opportunity to <strong>network with and get inspiration</strong> from other small businesses facing similar challenges and opportunities, as well as representatives from local authorities and sustainability or food activism networks. And a chance to <strong>meet local foodies</strong> with ideas and enthusiasm for your vegan options.
@@ -55,19 +58,13 @@ Please <strong>bring signage</strong> so people know who you are and where to fi
 What facilities are available?
 </h2>
 <p>
-The venue provides tables for the stalls, and chairs. There are no on-site cooking facilities. If you wish to serve hot or chilled food, please let us know and we will arrange for you to be near a power outlet. You will need to bring your own equipment for storing and serving.
-</p>
-<p>
-If you wish to run a workshop or demonstration or other group session, we will have separate space avaialble. Let us know how much time you need, how many people you can accommodate, and what your setup will be, and we will add you into our timetable.
-</p>
-<p>
-There is space to park for loading and unloading close to the main door, but vehicles will need to be moved to <a href="https://en.parkopedia.co.uk/parking/carpark/oswald_wynd/ky1/kirkcaldy/">a nearby carpark</a> for the duration of the event to allow for disabled access. The nearest carparks are free up to 1pm on Sundays. There is a <a href="https://en.parkopedia.co.uk/parking/carpark/dunnikier_road/ky1/thornton/">small carpark which is free all day just off Dunnikier Road</a>.
+We'll update this nearer the time, when the venue is confirmed.
 </p>
 <h2 class="orange">
 Who is organising this?
 </h2>
 <p>
-Amy, Tony, Amby, Lea and Shiva are Kirkcaldy-based community-minded vegan foodies, who want to celebrate what our town and the wider area have, and to whet the local appetite for more. We want to support local businesses, and bring something positive to Kirkcaldy.
+Amy, Tony, Lea and Shiva are Kirkcaldy-based community-minded vegan foodies, who want to celebrate what our town and the wider area have, and to whet the local appetite for more. We want to support local businesses, and bring something positive to Kirkcaldy.
 </p>
 <h2 class="orange">
 What else is happening?

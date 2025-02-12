@@ -4,9 +4,9 @@
 Who will be at Fife VegFest?
 </h2>
 <p>
-We're looking forward to vegan treats from:
+Watch this space - we'll announce new vendors periodically in the run up, and list them all here.
 </p>
-<ul>
+<!--<ul>
   <li><a target="_blank" href="https://thetiffin.uk">The Tiffin</a> Punjabi street food from Kirkcaldy</li>
   <li><a target="_blank" href="https://cookiedotdreams.wordpress.com">QBee Rustique</a> allergy-friendly sweet treats from Kirkcaldy</li>
   <li><a target="_blank" href="https://www.rawwildandconscious.com/">Raw Wild & Conscious</a> superfood chocolate from Cardenden</li>
@@ -25,5 +25,5 @@ We're looking forward to vegan treats from:
 <ul>
   <li>Local sustainability and social justice charity <a target="_blank" href="https://www.greenerkirkcaldy.org.uk/">Greener Kirkcaldy</a></li>
   <li>Global environmental charity <a target="_blank" href="https://greenpeace.org">Greenpeace</a>.</li>
-</ul>
+</ul>-->
 <? include("footer.php"); ?>
