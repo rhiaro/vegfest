@@ -1,30 +1,10 @@
-<? $pg="more"; ?>
+<? $pg="timetable"; ?>
 <? include("header.php"); ?>
-<h2 class="tan">
-Fife VegFest 2
-</h2>
-<p><strong>This was our second event showcasing local vegan-friendly businesses</strong>.</p>
-<p>
-We wanted to build on the success of the <a href="vegfest1">first Fife VegFest</a> in a new venue, the Old Kirk in Kirkcaldy, that allows us to have more stall holders and give even more people access to the amazing vegan food and drink that's made locally in Fife, and slightly further afield.
-</p>
-<p>
-We are keen to promote <a href="who">local vegan businesses</a>, and give people an insight into healthy, ethical and sustainable food choices, and anyone who may be trying out Veganuary.
-</p>
-<p>
-There were local artists running a creative corner, including badge making and block printing your very own Fife VegFest merchandise - so guests could bring along a t-shirt, tote bag or patch they wanted to customise - and there were also <a href="#timetable">panels</a> and a yoga workshop.
-</p>
-<p>
-There was a stall with Plant Based Fife, a local group who empowers the vegan community with resources, events and advocacy for sustainable, plant-based living, and are currently calling on organisations to commit to the <a href="https://plantbasedtreaty.org/">plant-based treaty</a>. They were joined by local sustainability and social justice charity <a href="https://greenerkirkcaldy.org.uk">Greener Kirkcaldy</a> and global environmental campaigners <a href="https://greenpeace.org">Greenpeace</a>.
-</p>
-<p>
-A raffle ran during the day, with <a href="#raffle">prizes generously donated</a> by our vendors, and all proceeds go back into running future VegFests.
-</p>
-<p>
-Fife VegFest is organised and run entirely by volunteers and not for-profit!
-</p>
-<h2 class="tan" id="timetable">
+<h2 class="yellow" id="timetable">
 Timetable
 </h2>
+<p>Our events combine food and other goodies with creative activities, wellbeing workshops, and informative discussions. We'll put the schedule here closer to the time, so check back soon!</p>
+<!--
 <div class="line">
   <h3>All day</h3>
   <p>main hall</p>
@@ -72,5 +52,5 @@ Q&A with local vegans, everyone welcome to join in the conversation.
     <li>A luxury breakfast hamper (coffee from Ecobean, jam from Aberdour Jams & Chutneys, bread from Lochaber Bakery, apple juice from CLEAR)</li>
     <li>2x£5 vouchers from Couple o Mugs cafe</li>
     <li>VegFest tote bag</li>
-</ul>
-<? include("../footer.php"); ?>
+</ul>-->
+<? include("footer.php"); ?>

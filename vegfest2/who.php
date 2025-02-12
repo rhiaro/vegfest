@@ -1,10 +1,10 @@
 <? $pg="vendors"; ?>
 <? include("header.php"); ?>
 <h2 class="orange">
-Who will be at Fife VegFest?
+Who was at the second Fife VegFest?
 </h2>
 <p>
-We're looking forward to vegan treats from:
+We enjoyed vegan treats from:
 </p>
 <ul>
   <li><a target="_blank" href="https://thetiffin.uk">The Tiffin</a> Punjabi street food from Kirkcaldy</li>
