@@ -19,10 +19,10 @@ If this is you - or if this is something you'd like to move towards - <strong>we
 What will it cost?
 </h2>
 <p>
-The event is not run for profit, and we ask that stallholders contribute to covering the costs of running the event. This figure will depend on the location and number of vendors who confirm; we'll publish the expected fee here nearer the time. (For reference: vendors contributed £20 for the first two VegFests.)
+The event is not run for profit, and we ask that stallholders contribute &pound;30 towards covering the costs of running the event.
 </p>
 <p>
-There will be no charge for the public entering the venue; they can spend every penny on your delicious treats.
+There will be no charge for the public to take part; they can spend every penny on your delicious treats.
 </p>
 <h2 class="orange">
 What's in it for me?
@@ -58,7 +58,15 @@ Please <strong>bring signage</strong> so people know who you are and where to fi
 What facilities are available?
 </h2>
 <p>
-We'll update this nearer the time, when the venue is confirmed.
+This is an outdoor market on the High Street, which is pedestrianised.
+<p>
+You'll need your own table(s) and gazebo (or truck if applicable), however if you're going to struggle with this let us know and we'll arrange something for you. We can provide electricity but please bring your own cables and adapters - contact us for details.
+</p>
+<p>
+There won't be access to water, handwashing or washing up facilities, so you'll need to make sure you have everything you need if you are serving hot food.
+</p>
+<p>
+There are public toilets in the Mercat and at the bus and train stations, and ample nearby parking.
 </p>
 <h2 class="orange">
 Who is organising this?
@@ -70,7 +78,7 @@ Amy, Tony, Lea and Shiva are Kirkcaldy-based community-minded vegan foodies, who
 What else is happening?
 </h2>
 <p>
-VegFest is mainly food-oriented, but we'll also have panel discussions, crafts, and other workshops. We'll be updating our website timetable information as we get it.
+VegFest is mainly food-oriented, but we'll also have crafts, a climate cafe and other workshops. We'll be updating our website timetable information as we get it.
 </p>
 <h2 class="orange">
 Now what?

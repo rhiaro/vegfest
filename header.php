@@ -38,5 +38,5 @@ switch($pg){
       <p>11&mdash;late</p>
     </div>
     <div class="line">
-      <a href="/venue"><h2>Kirkcaldy</h2></a>
+      <a href="/venue"><h2>Kirkcaldy High St</h2></a>
     </div>
