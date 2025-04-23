@@ -15,7 +15,7 @@
       <h3>creative space to craft and play</h3>
     </div>
     <div class="line">
-      <h3>holistic wellbeing workshops</h3>
+      <h3>sustainability & wellbeing workshops</h3>
     </div>
     <div class="line">
       <h3>friendly chat</h3>
@@ -27,6 +27,6 @@
       <h3>other things too</h3>
       <p><a href="timetable">see the schedule</a></p>
     </div>
-    <h2 class="green">First ever VegFest success!</h2>
-    <p>Thanks to everyone who came along to make the first ever Fife VegFest in Octoer 2024 an incredible success. <a href="/vegfest2024">Read about it here</a>.</p>
+    <h2 class="green">Previous events</h2>
+    <p>Thanks to everyone who came along to make our first Fife VegFest events an incredible success. <a href="/past">See previous events here</a>.</p>
 <? include("footer.php"); ?>
