@@ -7,6 +7,7 @@
 * pink #e99eb8
 * yellow #f6e97b
 * tan #988A84
+* red #c93f2c
 **/
 html {scroll-behavior: smooth; }
 
@@ -67,7 +68,7 @@ h4 {
   color: #e99eb8;
 }
 
-p, ul {
+p, ul, summary, th, td {
   padding: 0.4em;
   font-size: 1.2em;
 }
@@ -86,7 +87,7 @@ ul {
   list-style: disc inside none;
 }
 ul li {
-  font-size: 1.2m;
+  font-size: 1.2em;
   line-height: 1.6em;
 }
 
@@ -106,6 +107,12 @@ a {
 a:hover {
   text-decoration: none;
 }
+
+th {
+  font-weight: bold;
+  text-align: left;
+}
+
 
 .success {
   border:  2px solid #1f9176;
@@ -143,6 +150,13 @@ a:hover {
   color: #fff;
 }
 .tan a {
+  color: #fff;
+}
+.red {
+  background-color: #c93f2c;
+  color: #fff;
+}
+.red a {
   color: #fff;
 }
 

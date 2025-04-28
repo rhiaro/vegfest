@@ -13,6 +13,9 @@ switch($pg){
     $img = "beet2";
     break;
   case "more":
+    $img = "tomatoes";
+    break;
+  case "funds":
     $img = "mushroom";
     break;
   default:
@@ -35,7 +38,7 @@ switch($pg){
   <main>
     <div class="line">
       <h2>22nd June 2025</h2>
-      <p>11&mdash;late</p>
+      <p>11&mdash;5 (market), 5&mdash;late (afterparty)</p>
     </div>
     <div class="line">
       <a href="/venue"><h2>Kirkcaldy High St</h2></a>

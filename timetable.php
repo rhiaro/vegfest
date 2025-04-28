@@ -1,6 +1,6 @@
-<? $pg="timetable"; ?>
+<? $pg="more"; ?>
 <? include("header.php"); ?>
-<h2 class="yellow" id="timetable">
+<h2 class="red" id="timetable">
 Timetable
 </h2>
 <p>Our events combine food and other goodies with creative activities, wellbeing workshops, and informative discussions. We'll put the schedule here closer to the time, so check back soon!</p>
