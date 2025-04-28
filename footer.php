@@ -12,5 +12,9 @@
       <h2 class="pink"><a href="/getinvolved">Get involved</a></h2>
       <p><a href="/getinvolved">Interested having a stall or helping out?</a></p>
     </div>
+    <div class="line">
+      <h2 class="pink"><a href="/funds">Support us</a></h2>
+      <p><a href="/funds">Find out more about our funding</a></p>
+    </div>
   </footer>
 </html>
