@@ -43,7 +43,7 @@ Budget
 <details>
   <summary>VegFest 3: June 2025 (projected costs)</summary>
   <table>
-    <tr><th colspan=2>Income</th><th>762.40</th></tr>
+    <tr><th colspan=2>Income</th><th>750</th></tr>
     <tr><td></td><td>vendor fees</td><td>750</td></tr>
     <tr><td></td><td>fundraising (merch/raffle/events)</td><td>unknown</td></tr>
     <tr><td></td><td>direct donations</td><td>unknown</td></tr>

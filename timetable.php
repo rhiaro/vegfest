@@ -1,9 +1,21 @@
 <? $pg="more"; ?>
 <? include("header.php"); ?>
 <h2 class="red" id="timetable">
-Timetable
+What's on?
 </h2>
 <p>Our events combine food and other goodies with creative activities, wellbeing workshops, and informative discussions. We'll put the schedule here closer to the time, so check back soon!</p>
+<p>VegFest is part of the <a href="https://www.loveoorlangtoun.com/lang-toun-fest-whats-on">Lang Toun Fest</a>, a month-long celebration of Kirkcaldy. On VegFest day, you can also head to...</p>
+<ul>
+  <li><strong>The Ingolstadt Beer Festival</strong> at Krafty / The Other place, all day.</li>
+  <li><strong><a href="https://www.kingstheatrekirkcaldy.com/event-details/summer-solstice-holistic-fare">Summer Solstice Holistic Fayre</a></strong> at the King's, 12-4pm.</li>
+  <li><strong><a href="https://www.facebook.com/p/Fife-Ukulele-Orchestra-100067847896506/?locale=en_GB">Fife Ukelele Orchestra</a></strong> at the St Bryce Center, 2-4pm.</li>
+  <li><strong><a href="https://livemusicnow.scot/">Tea & Tunes</a></strong> at the Old Kirk, 2:30-4:30pm.</li>
+  <li><strong><a href="https://www.onfife.com/event/write-on/">WriteON</a></strong> at Kirkcaldy Galleries, 12:30-2:30pm.</li>
+</ul>
+<h2 class="red" id="afterparty">
+Afterparty
+</h2>
+<p>After the market, join us at Betty Nicols (297 High St) for vegan buffet snacks and drinks. If the weather is fine we'll take our solstice energy to the beach later on!</p>
 <!--
 <div class="line">
   <h3>All day</h3>

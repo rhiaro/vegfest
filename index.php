@@ -9,23 +9,20 @@
       <p><a href="who">see who's coming</a></p>
     </div>
     <div class="line">
-      <h3>vegan food, drinks and treats</h3>
+      <h3>vegan food, drinks & treats</h3>
     </div>
     <div class="line">
-      <h3>creative space to craft and play</h3>
+      <h3>creative space to craft & play</h3>
     </div>
     <div class="line">
       <h3>climate cafe & cooking demos</h3>
     </div>
     <div class="line">
-      <h3>friendly chat</h3>
-    </div>
-    <div class="line">
       <h3>midsummer night after party</h3>
     </div>
     <div class="line">
-      <h3>other things too</h3>
-      <p><a href="timetable">see the schedule</a></p>
+      <h3>the lang toun fest</h3>
+      <p><a href="timetable">see what's on!</a></p>
     </div>
     <div class="line">
       <h3 class="red">quiz night!</h3>
