@@ -11,16 +11,16 @@ We're excited to welcome:
   <li><a target="_blank" href="https://cookiedotdreams.wordpress.com">QBee Rustique</a> allergy-friendly sweet treats from Kirkcaldy</li>
   <li><a target="_blank" href="https://www.facebook.com/aberdourjamsandchutneys/">Aberdour Jams & Chutneys</a> delicious spreads from Aberdour</li>
   <li><a target="_blank" href="https://www.nakeybakeyco.com/">Nakey Bakey</a> allergen-free granola from Methil</li>
+  <li><a target="_blank" href="https://www.rawwildandconscious.com/">Raw, Wild & Conscious</a> stoneground superfood chocolate from Cardenden</li>
   <li><a target="_blank" href="https://www.buddykombucha.co.uk/">Buddy Kombucha</a> seasonal flavours from Newburgh</li>
   <li><a target="_blank" href="https://www.consideritchocolate.com/">ConsiderIt</a> chocolate, cakes and sweet treats made in Dunfermline</li>
-  <li><a target="_blank" href="http://coffeenstuff.co.uk/">Coffee 'n' Stuff</a> hot drinks and cake from Dunfermline</li>
   <li><a target="_blank" href="https://www.clearfife.org/">CLEAR</a> locally grown juices, cordials and preserves from Buckhaven</li>
   <li><a target="_blank" href="https://www.bodylushious.com/">Bodylushious</a> skincare and candles from Glenrothes</li>
   <li><a target="_blank" href="https://www.ecobean.co.uk/">Ecobean</a> coffee beans roasted and ground in Kirkcaldy</li>
-  <li><a target="_blank" href="https://peachykeen.co.uk/">Peachy Keen</a> microgreens grown in Kirkcaldy using solar power</li>
+<!--   <li><a target="_blank" href="https://peachykeen.co.uk/">Peachy Keen</a> microgreens grown in Kirkcaldy using solar power</li> -->
   <li><a target="_blank" href="https://www.eastneukseaweed.com/">East Neuk Seaweed</a> wild-foraged coastal food from North East Fife</li>
   <li><a target="_blank" href="https://fido-handmade-dog-treats.sumupstore.com/">Fido's Luxury Dog Treats</a> handmade locally sourced snacks for your pooch from Kirkcaldy</li>
-  <li><a target="_blank" href="https://www.marwicksvegankitchen.com/">Marwick's Vegan Kitchen</a> filled bao and takoyaki from Tayport</li>
+<!--   <li><a target="_blank" href="https://www.marwicksvegankitchen.com/">Marwick's Vegan Kitchen</a> filled bao and takoyaki from Tayport</li> -->
   <li><a target="_blank" href="https://www.simplyflo.co.uk/">Simply Flo</a> Lebanese cuisine from Auchterader</li>
   <li><a target="_blank" href="https://blissbitesscotland.co.uk/">Bliss Bites</a> healthy snacks from Inchture</li>
   <li><a target="_blank" href="https://artisanvegancheese.co.uk/">Earthy Vegan Cheese</a> fermented cashew cheese and cheesecake from Edinburgh</li>

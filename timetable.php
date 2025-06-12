@@ -3,7 +3,15 @@
 <h2 class="red" id="timetable">
 What's on?
 </h2>
-<p>Our events combine food and other goodies with creative activities, wellbeing workshops, and informative discussions. We'll put the schedule here closer to the time, so check back soon!</p>
+<h3>As well as the market, join us for...</h3>
+<ul>
+  <li><strong>Creative Space:</strong> Block print your own VegFest merch (bring a tshirt or tote bag!), badgemaking, collage, papier mache and other creative activities in a laid back space. You can also come here to sit down and relax. Find us in <em>Everyone Everyday, Mercat Shopping Center</em> (next to Boots).</li>
+  <li><strong>Climate Cafe:</strong> Join Climate Action Fife's climate experts in conversation about sustainability. Make your own smoothie with the Active Travel Hub smoothie bike. Find us on the High St.</li>
+  <li><strong>Cooking demos:</strong> Curious about vegan cooking? Learn more with Greener Kirkcaldy's Community Chef. (Times tbc).</li>
+</ul>
+<h2 class="red" id="langtounfest">
+Lang Toun Fest
+</h2>
 <p>VegFest is part of the <a href="https://www.loveoorlangtoun.com/lang-toun-fest-whats-on">Lang Toun Fest</a>, a month-long celebration of Kirkcaldy. On VegFest day, you can also head to...</p>
 <ul>
   <li><strong>The Ingolstadt Beer Festival</strong> at Krafty / The Other place, all day.</li>

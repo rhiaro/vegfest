@@ -5,7 +5,7 @@
       <p><a href="/welcome">everyone welcome</a></p>
     </div>
     <div class="line">
-      <h3>stalls from around Fife</h3>
+      <h3>stalls from Fife & beyond</h3>
       <p><a href="who">see who's coming</a></p>
     </div>
     <div class="line">
@@ -19,14 +19,11 @@
     </div>
     <div class="line">
       <h3>midsummer night after party</h3>
+      <p><a href="timetable#afterparty">5pm&mdash;late at Betty Nicols</a></p>
     </div>
     <div class="line">
       <h3>the lang toun fest</h3>
       <p><a href="timetable">see what's on!</a></p>
-    </div>
-    <div class="line">
-      <h3 class="red">quiz night!</h3>
-      <p><a href="/social#quiznight">fundraiser, social, raffle, merch</a><br/>23rd May 6-8pm, Betty Nicols, Kirkcaldy</p>
     </div>
     <h2 class="green">Previous events</h2>
     <p>Thanks to everyone who came along to make our first Fife VegFest events an incredible success. <a href="/past">See previous events here</a>.</p>
