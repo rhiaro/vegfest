@@ -6,24 +6,12 @@
     </div>
     <div class="line">
       <h3>stalls from Fife & beyond</h3>
-      <p><a href="who">see who's coming</a></p>
     </div>
     <div class="line">
       <h3>vegan food, drinks & treats</h3>
     </div>
     <div class="line">
       <h3>creative space to craft & play</h3>
-    </div>
-    <div class="line">
-      <h3>climate cafe & cooking demos</h3>
-    </div>
-    <div class="line">
-      <h3>midsummer night after party</h3>
-      <p><a href="timetable#afterparty">5pm&mdash;late at Betty Nicols</a></p>
-    </div>
-    <div class="line">
-      <h3>the lang toun fest</h3>
-      <p><a href="timetable">see what's on!</a></p>
     </div>
     <h2 class="green">Previous events</h2>
     <p>Thanks to everyone who came along to make our first Fife VegFest events an incredible success. <a href="/past">See previous events here</a>.</p>

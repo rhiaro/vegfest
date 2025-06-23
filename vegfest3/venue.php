@@ -18,4 +18,4 @@ The Creative Space will be indoors, with a variety of seating as well.
 <p>
 We will publish a map and video of the accessible walking route from the train and bus stations nearer the time.
 </p>
-<? include("footer.php"); ?>
+<? include("../footer.php"); ?>

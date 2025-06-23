@@ -28,18 +28,18 @@ switch($pg){
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vegan events in Kirkcaldy and around Fife</title>
-  <link rel="stylesheet" href="css/reset.css">
-  <link rel="stylesheet" href="css/vgn.css">
+  <link rel="stylesheet" href="../css/reset.css">
+  <link rel="stylesheet" href="../css/vgn.css">
 </head>
 <body>
   <header>
-    <h1><a href="/"><img src="img/<?=$img?>.png" alt="VegFest logo is weird happy dopy vegetables" /></a></h1>
+    <h1><a href="/"><img src="../img/<?=$img?>.png" alt="VegFest logo is weird happy dopy vegetables" /></a></h1>
   </header>
   <main>
     <div class="line">
-      <h2>19th October 2025</h2>
-      <p>11&mdash;4</p>
+      <h2>22nd June 2025</h2>
+      <p>11&mdash;5 (market), 5&mdash;late (afterparty)</p>
     </div>
-<!--     <div class="line">
+    <div class="line">
       <a href="/venue"><h2>Kirkcaldy High St</h2></a>
-    </div> -->
+    </div>
