@@ -2,6 +2,7 @@ RewriteEngine On
 RewriteBase /
 Redirect 301 "/vegfest2024" "/vegfest1"
 Redirect 301 "/vegfest202501" "/vegfest2"
+Redirect 301 "/vendorform" "https://cloud.amy.gy/apps/forms/s/RmrGfxyDaLZBZ3YZRtinL5kx"
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !(.*)/$
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
