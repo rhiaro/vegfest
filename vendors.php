@@ -19,7 +19,7 @@ If this is you - or if this is something you'd like to move towards - <strong>we
 What will it cost?
 </h2>
 <p>
-The event is not run for profit, and we ask that stallholders contribute &pound;30 towards covering the costs of running the event.
+The event is not run for profit, and we ask that stallholders contribute &pound;25 towards covering the costs of running the event.
 </p>
 <p>
 There will be no charge for the public to take part; they can spend every penny on your delicious treats.
@@ -58,21 +58,21 @@ Please <strong>bring signage</strong> so people know who you are and where to fi
 What facilities are available?
 </h2>
 <p>
-This is an outdoor market on the High Street, which is pedestrianised.
+This is an indoor market in the Old Kirk, an historic building with plenty of space and high ceilings.
 <p>
-You'll need your own table(s) and gazebo (or truck if applicable), however if you're going to struggle with this let us know and we'll arrange something for you. We can provide electricity but please bring your own cables and adapters - contact us for details.
+You'll need your own table, however if you're going to struggle with this let us know and we'll arrange something for you. We can provide electricity but please bring your own cables, extensions and adapters as necessary.
 </p>
 <p>
-There won't be access to water, handwashing or washing up facilities, so you'll need to make sure you have everything you need if you are serving hot food.
+There is limited access to water and handwashing facilities; please make sure you have everything you need if you are serving hot food.
 </p>
 <p>
-There are public toilets in the Mercat and at the bus and train stations, and ample nearby parking.
+The venue has toilets. There will be space to load and unload by the door, but you'll need to move your vehicle to a public parking space for the duration of the market. There is plenty of parking nearby.
 </p>
 <h2 class="orange">
 Who is organising this?
 </h2>
 <p>
-Amy, Tony, Lea and Shiva are Kirkcaldy-based community-minded vegan foodies, who want to celebrate what our town and the wider area have, and to whet the local appetite for more. We want to support local businesses, and bring something positive to Kirkcaldy.
+Amy, Kit, Tony, Lea, Abi and Shiva are Kirkcaldy-based community-minded vegan foodies, who want to celebrate what our town and the wider area have, and to whet the local appetite for more. We want to support local businesses, and bring something positive to Kirkcaldy.
 </p>
 <h2 class="orange">
 What else is happening?
