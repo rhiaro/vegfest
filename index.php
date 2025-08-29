@@ -13,6 +13,8 @@
     <div class="line">
       <h3>creative space to craft & play</h3>
     </div>
+    <h2 class="red">Next social</h2>
+    <p>Drop in to print-your-own VegFest merch on 10th Oct in Kirkcaldy. <a href="/social#printsocial">Find out more</a>.</p>
     <h2 class="green">Previous events</h2>
     <p>Thanks to everyone who came along to make our first Fife VegFest events an incredible success. <a href="/past">See previous events here</a>.</p>
 <? include("footer.php"); ?>

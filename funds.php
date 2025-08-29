@@ -16,8 +16,8 @@ Support us
 You can support us by buying VegFest merchandise (pay-as-you-feel) at our socials and markets, taking part in our raffles, quiz nights, and other events, or by <a href="https://www.paypal.com/pools/c/9eghau4adF">donating directly on pay pal</a>.
 </p>
 <div class="line">
-  <h3 class="red">quiz night!</h3>
-  <p><a href="/social#quiznight">23rd May 6-8pm, Betty Nicols, Kirkcaldy</a>.</p>
+  <h3 class="red">print social!</h3>
+  <p><a href="/social#printsocial">Friday 10th Oct 5-8pm, The Print Coop, Kirkcaldy</a>.</p>
 </div>
 
 <h2 class="tan">

@@ -6,29 +6,28 @@ Social events
 <p>
 Meet fellow vegans and VegFest enthusiasts at our social events! Keep an eye on this page and our social media for cafe trips, picnics and days out around Fife.
 </p>
-<div class="line" id="quiznight">
-  <h3>NEXT: quiz night!</h3>
+<div class="line" id="printsocial">
+  <h3>NEXT: Print Social</h3>
 </div>
 <p>
-<strong>Friday 23rd May, 6&mdash;8pm</strong> Betty Nicols, Kirkcaldy
+<strong>Friday 10th October, 5&mdash;8pm</strong> The Print Coop, 299 High St Kirkcaldy (next to Betty Nicols)
 </p>
 <p>
-Join Fife VegFest for a fundraiser event at Betty Nicols, including quiz and raffle!
+<strong>Drop in and print your own custom merch ahead of October's Fife VegFest!</strong>
 </p>
 <ul>
-<li>Quiz (6.30-7.30pm)!</li>
-<li>Raffle!</li>
-<li>Merch Table!</li>
-<li>Good chat and fun times!</li>
-</ul>
+<li>Why buy more things when you can reuse something you already have?</li>
+<li>BRING YOUR OWN tshirts, patches, tote bags, tea towels - anything you'd like to print with the VegFest weird veg mascots.</li>
+<li>Come any time. Printing takes about 15 minutes. Suitable for all ages (with supervision).</li>
+<li>Tea, coffee, juice, cakes and snacks, good chat, fun DIY vibes.</li>
+<li>Followed by drinks at Betty Nicols.</li>
+<ul>
 <p>
-<strong>Quiz teams are £5</strong> for a max 5 people, email us at vegfest@kdy.scot with the subject line "quiz" or DM us on FB or Insta to book your team in!
+Suggested donation: £5. All proceeds go towards future VegFests!
 </p>
 <p>
-<strong>No team? No problem!</strong> Email or DM us and we will buddy you up with some friendly fellow quizzers!
-</p>
 <p>
-<strong>All welcome</strong> even if not quizzing, drop in to meet other VegFest enthusiasts!
+<strong>All welcome</strong> even if not printing, drop in to meet other VegFest enthusiasts!
 </p>
 <p>
 We will be using any money raised towards the costs of insurance, licenses, equipment hire and marketing for the next VegFest. If you can't come along but still want to sling a fiver our way, you can <a href="https://www.paypal.com/pools/c/9eghau4adF">donate here</a>.
