@@ -21,7 +21,7 @@ Meet fellow vegans and VegFest enthusiasts at our social events! Keep an eye on 
 <li>Come any time. Printing takes about 15 minutes. Suitable for all ages (with supervision).</li>
 <li>Tea, coffee, juice, cakes and snacks, good chat, fun DIY vibes.</li>
 <li>Followed by drinks at Betty Nicols.</li>
-<ul>
+</ul>
 <p>
 Suggested donation: £5. All proceeds go towards future VegFests!
 </p>
