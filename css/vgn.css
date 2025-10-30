@@ -68,7 +68,7 @@ h4 {
   color: #e99eb8;
 }
 
-p, ul, summary, th, td {
+p, summary, th, td {
   padding: 0.4em;
   font-size: 1.2em;
 }
@@ -84,6 +84,7 @@ p a:hover {
   font-style: italic;
 }
 ul {
+  padding: 0.4em;
   list-style: disc inside none;
 }
 ul li {
@@ -292,7 +293,7 @@ footer .line {
   grid-template-columns: max-content 1fr;
 }
 
-p {
+p, ul li, summary, th, td {
   font-size: 1.4em;
 }
 
