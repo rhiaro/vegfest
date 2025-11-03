@@ -256,6 +256,20 @@ img {
   max-width: 100%;
 }
 
+.img2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 0.6em;
+  row-gap: 0.6em;
+}
+
+.img3 {
+  display: grid;
+  grid-template-columns: 1fr;
+  column-gap: 0.6em;
+  row-gap: 0.6em;
+}
+
 header {
 
 }
@@ -273,19 +287,14 @@ body {
 
 }
 
-header {
-
-}
-
 body.admin {
   grid-template-rows: 0.4fr 2fr max-content max-content;
 }
 
-main {
-}
-
-footer {
-
+.img3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 0.6em;
 }
 
 footer .line {
