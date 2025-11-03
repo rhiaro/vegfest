@@ -19,7 +19,7 @@ If this is you - or if this is something you'd like to move towards - <strong>we
 What will it cost?
 </h2>
 <p>
-The event is not run for profit, and we ask that stallholders contribute &pound;25 towards covering the costs of running the event.
+The event is not run for profit, and we typically ask that stallholders contribute between &pound;20 and &pound;30 towards covering the costs of running the event.
 </p>
 <p>
 There will be no charge for the public to take part; they can spend every penny on your delicious treats.
@@ -58,7 +58,11 @@ Please <strong>bring signage</strong> so people know who you are and where to fi
 What facilities are available?
 </h2>
 <p>
+We'll add information here about the venue facilities nearer the time.
+</p>
+<!-- <p>
 This is an indoor market in the Old Kirk, an historic building with plenty of space and high ceilings.
+</p>
 <p>
 You'll need your own table, however if you're going to struggle with this let us know and we'll arrange something for you. We can provide electricity but please bring your own cables, extensions and adapters as necessary.
 </p>
@@ -67,7 +71,7 @@ There is limited access to water and handwashing facilities; please make sure yo
 </p>
 <p>
 The venue has toilets. There will be space to load and unload by the door, but you'll need to move your vehicle to a public parking space for the duration of the market. There is plenty of parking nearby.
-</p>
+</p> -->
 <h2 class="orange">
 Who is organising this?
 </h2>

@@ -6,7 +6,7 @@ Social events
 <p>
 Meet fellow vegans and VegFest enthusiasts at our social events! Keep an eye on this page and our social media for cafe trips, picnics and days out around Fife.
 </p>
-<div class="line" id="printsocial">
+<!-- <div class="line" id="printsocial">
   <h3>NEXT: Print Social</h3>
 </div>
 <p>
@@ -28,8 +28,8 @@ Suggested donation: £5. All proceeds go towards future VegFests!
 <p>
 <p>
 <strong>All welcome</strong> even if not printing, drop in to meet other VegFest enthusiasts!
-</p>
+</p> -->
 <p>
-We will be using any money raised towards the costs of insurance, licenses, equipment hire and marketing for the next VegFest. If you can't come along but still want to sling a fiver our way, you can <a href="https://www.paypal.com/pools/c/9eghau4adF">donate here</a>.
+We use any money raised towards the costs of insurance, licenses, equipment hire and marketing for the next VegFest. If you can't come along but still want to sling a fiver our way, you can <a href="https://www.paypal.com/pools/c/9eghau4adF">donate here</a>.
 </p>
 <? include("footer.php"); ?>

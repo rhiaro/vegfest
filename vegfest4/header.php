@@ -18,6 +18,9 @@ switch($pg){
   case "funds":
     $img = "mushroom";
     break;
+  case "four":
+    $img = "cabbage";
+    break;
   default:
     $img = "turnip";
 }
@@ -28,19 +31,19 @@ switch($pg){
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vegan events in Kirkcaldy and around Fife</title>
-  <link rel="stylesheet" href="css/reset.css">
-  <link rel="stylesheet" href="css/vgn.css">
+  <link rel="stylesheet" href="../css/reset.css">
+  <link rel="stylesheet" href="../css/vgn.css">
 </head>
 <body>
   <header>
-    <h1><a href="/"><img src="img/<?=$img?>.png" alt="VegFest logo is weird happy dopy vegetables" /></a></h1>
+    <h1><a href="/"><img src="../img/<?=$img?>.png" alt="VegFest logo is weird happy dopy vegetables" /></a></h1>
   </header>
   <main>
     <div class="line">
-      <h2>3rd May 2026</h2>
+      <h2>19th October 2025</h2>
       <p>11&mdash;4</p>
     </div>
     <div class="line">
       <h2>Kirkcaldy</h2>
-      <!-- <p><a href="venue">The Old Kirk</a>, Kirk Wynd</p> -->
+      <p><a href="venue">The Old Kirk</a>, Kirk Wynd</p>
     </div>
