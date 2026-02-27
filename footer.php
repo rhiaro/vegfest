@@ -6,7 +6,7 @@
     </div>
     <div class="line">
       <h2 class="pink"><a href="https://subscribepage.io/fifevegfest">Future events</a></h2>
-      <p><a href="https://subscribepage.io/fifevegfest">Join our mailing list to find out about future events.</a></p>
+      <p>We'll be back on Sunday 4th October 2026!</p>
     </div>
     <div class="line">
       <h2 class="pink"><a href="/getinvolved">Get involved</a></h2>

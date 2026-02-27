@@ -19,7 +19,7 @@ If this is you - or if this is something you'd like to move towards - <strong>we
 What will it cost?
 </h2>
 <p>
-The event is not run for profit, and we typically ask that stallholders contribute between &pound;20 and &pound;30 towards covering the costs of running the event.
+The event is not run for profit. We ask that stallholders contribute between &pound;25 towards covering the costs of running the event.
 </p>
 <p>
 There will be no charge for the public to take part; they can spend every penny on your delicious treats.
@@ -31,7 +31,7 @@ What's in it for me?
 We'd love for you to show off your vegan food offerings to <strong>raise your profile</strong> among Fifers with dietary restrictions and those making eco-conscious food choices. It can be hard for us to find good options - let us know that you can cater for us! And spend the day selling your fare to <strong>a new audience</strong>.
 </p>
 <p>
-Our <a href="vegfest1">first</a> and <a href="vegfest2">second</a> VegFests had hundreds of people through the doors, and many vendors sold out.
+Our <a href="past">previous</a> VegFests had hundreds of people through the doors, and many vendors sold out.
 </p>
 <p>
 This will also be an opportunity to <strong>network with and get inspiration</strong> from other small businesses facing similar challenges and opportunities, as well as representatives from local authorities and sustainability or food activism networks. And a chance to <strong>meet local foodies</strong> with ideas and enthusiasm for your vegan options.
@@ -54,13 +54,16 @@ Please bring what you need to take payments (cash, card or both) and make your p
 <p>
 Please <strong>bring signage</strong> so people know who you are and where to find you. Do bring flyers, business cards, your vegan menu (or your full menu with vegan options highlighted) or similar to promote yourselves.
 </p>
+<p>
+If you can <strong>bring your own table</strong> please do so. If you don't have one, we have a limited number available.
+</p>
 <h2 class="orange">
 What facilities are available?
 </h2>
-<p>
+<!--<p>
 We'll add information here about the venue facilities nearer the time.
-</p>
-<!-- <p>
+</p>-->
+<p>
 This is an indoor market in the Old Kirk, an historic building with plenty of space and high ceilings.
 </p>
 <p>
@@ -71,7 +74,7 @@ There is limited access to water and handwashing facilities; please make sure yo
 </p>
 <p>
 The venue has toilets. There will be space to load and unload by the door, but you'll need to move your vehicle to a public parking space for the duration of the market. There is plenty of parking nearby.
-</p> -->
+</p>
 <h2 class="orange">
 Who is organising this?
 </h2>

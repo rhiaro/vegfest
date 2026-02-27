@@ -42,5 +42,5 @@ switch($pg){
     </div>
     <div class="line">
       <h2>Kirkcaldy</h2>
-      <!-- <p><a href="venue">The Old Kirk</a>, Kirk Wynd</p> -->
+      <p><a href="venue">The Old Kirk</a>, Kirk Wynd</p>
     </div>
