@@ -19,7 +19,7 @@
       <p><a href="timetable#creativespace">DIY block printing</a></p>
     </div>
     <h2 class="red">Next social</h2>
-    <p>To be announced! <a href="/social">Find out more</a>.</p>
+    <p>VegHeads Quiz! 10th April, 6-8pm <a href="/social#quiz">Find out more</a>.</p>
     <h2 class="green">Previous events</h2>
     <p>Thanks to everyone who came along to make our first Fife VegFest events an incredible success. <a href="/past">See previous events here</a>.</p>
 <? include("footer.php"); ?>

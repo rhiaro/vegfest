@@ -6,12 +6,25 @@ Social events
 <p>
 Meet fellow vegans and VegFest enthusiasts at our social events! Keep an eye on this page and our social media for cafe trips, picnics and days out around Fife.
 </p>
-<!-- <div class="line" id="printsocial">
-  <h3>NEXT: Print Social</h3>
+<div class="line" id="quiz">
+  <h3>NEXT: VegHeads Quiz</h3>
 </div>
 <p>
-<strong>Friday 10th October, 5&mdash;8pm</strong> The Print Coop, 299 High St Kirkcaldy (next to Betty Nicols)
+<strong>Friday 10th April 2026, 6&mdash;8pm</strong> BArty's, Kirk Wynd, Kirkcaldy
 </p>
+<p>
+Win grand prizes from VegFest favourites! Prove you are smarter than your pals! Have a lovely time! Help us keep VegFest alive!
+</p>
+<p>
+<strong>Join for £5 per person</strong> with teams of up to 5 people! Email us at vegfest@kdy.scot with the subject line "quiz" or DM us on FB or Insta to book your team in!
+</p>
+<p>
+<strong>No team? No problem!</strong> Email or DM us and we will buddy you up with some friendly fellow quizzers!
+</p>
+<p>
+<strong>All welcome</strong> even if not quizzing, drop in to meet other VegFest enthusiasts!
+</p>
+<!--
 <p>
 <strong>Drop in and print your own custom merch ahead of October's Fife VegFest!</strong>
 </p>
