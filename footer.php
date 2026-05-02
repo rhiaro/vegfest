@@ -6,7 +6,7 @@
     </div>
     <div class="line">
       <h2 class="pink"><a href="https://subscribepage.io/fifevegfest">Future events</a></h2>
-      <p>We'll be back on Sunday 4th October 2026!</p>
+      <p>We'll be back on Sunday 28th June in Cupar, and 4th October in Kirkcaldy!</p>
     </div>
     <div class="line">
       <h2 class="pink"><a href="/getinvolved">Get involved</a></h2>
