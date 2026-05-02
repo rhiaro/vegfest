@@ -25,7 +25,6 @@ At the fifth VegFest, we are excited to welcome:
   <li><a target="_blank" href="https://www.marwicksvegankitchen.com/">Marwick's Kitchen</a> bao and cheesecake from Tayport</li>
   <li><a target="_blank" href="https://peachykeen.co.uk">Peachy Keen</a> solar-grown microherbs from Kirkcaldy</li>
   <li><a target="_blank" href="https://cookiedotdreams.wordpress.com">QBee Rustique</a> allergy-friendly sweet treats from Kirkcaldy</li>
-  <li><a target="_blank" href="https://www.rawwildandconscious.com/">Raw, Wild & Conscious</a> stone-ground cacao chocolate from Cardenden</li>
   <li><a target="_blank" href="https://www.rawwildandconscious.com/">Raw, Wild & Conscious</a> stoneground superfood chocolate from Cardenden</li>
   <li><a target="_blank" href="https://thesanctuarygarden.co.uk/">The Sanctuary Garden</a> seedlings for your garden from Dunfermline</li>
   <li><a target="_blank" href="https://www.simplyflo.co.uk/">Simply Flo</a> Lebanese cuisine from Auchterader</li>
